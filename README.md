@@ -1,2 +1,2 @@
 # Machine-Learning-Model
-Useful ML Model
+It contains Naive Bayes Model and KNN model.
